@@ -1,2 +1,1 @@
-My first readme
-I editted this
+Thats the way to go
